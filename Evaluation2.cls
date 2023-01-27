@@ -2,6 +2,18 @@
 요구사항 - lightning component로 개발
 개발된 컴포넌트는 Opportunity Record Page에 노출
 
+기본적으로 
+
+Oppotuntiy 
+Pricebook
+
+OpportunityLineItem
+PridcebookEntry
+
+Product2
+
+
+
 화면
 View 화면 Edit
 View 화면에는 edit 버튼
