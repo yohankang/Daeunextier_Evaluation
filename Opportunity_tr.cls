@@ -10,7 +10,7 @@ LeadSource는 변경할 수 없음
 단, 다른 클래스내에서 'Other' 로 생성할 수 있도록 처리가 되어야 함 (예외 처리를 할 수 있도록)
 
 
-Opportunity가 IsWon 이고, ClosedDate가 올해인 Account 별 Amount 총액에 따라 Account의 GradeThisYear__c값에 Amount 총액별로 등급 업데이트
+Opportunity가 IsWon 이고, ClosedDate가 올해인 Account 별 Amount 총액에 따라 Account의 Grade__c값에 Amount 총액별로 등급 업데이트
 500만원미만 E, 500만원이상 D, 1000만원이상 C, 5000만원이상 B, 1억이상 A
 단 작년등급 (GradeLastYear__c)가 높은 경우 작년등급으로 그대로 둠
 예) Account "sample1" GradeLastYear__c 가 값이 없는 경우
